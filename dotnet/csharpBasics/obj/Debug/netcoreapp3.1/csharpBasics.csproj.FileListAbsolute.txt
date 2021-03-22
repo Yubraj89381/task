@@ -1,0 +1,13 @@
+C:\Users\Dell\Desktop\dotnet\csharpBasics\bin\Debug\netcoreapp3.1\csharpBasics.exe
+C:\Users\Dell\Desktop\dotnet\csharpBasics\bin\Debug\netcoreapp3.1\csharpBasics.deps.json
+C:\Users\Dell\Desktop\dotnet\csharpBasics\bin\Debug\netcoreapp3.1\csharpBasics.runtimeconfig.json
+C:\Users\Dell\Desktop\dotnet\csharpBasics\bin\Debug\netcoreapp3.1\csharpBasics.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\dotnet\csharpBasics\bin\Debug\netcoreapp3.1\csharpBasics.dll
+C:\Users\Dell\Desktop\dotnet\csharpBasics\bin\Debug\netcoreapp3.1\csharpBasics.pdb
+C:\Users\Dell\Desktop\dotnet\csharpBasics\obj\Debug\netcoreapp3.1\csharpBasics.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\dotnet\csharpBasics\obj\Debug\netcoreapp3.1\csharpBasics.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\dotnet\csharpBasics\obj\Debug\netcoreapp3.1\csharpBasics.AssemblyInfo.cs
+C:\Users\Dell\Desktop\dotnet\csharpBasics\obj\Debug\netcoreapp3.1\csharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\dotnet\csharpBasics\obj\Debug\netcoreapp3.1\csharpBasics.dll
+C:\Users\Dell\Desktop\dotnet\csharpBasics\obj\Debug\netcoreapp3.1\csharpBasics.pdb
+C:\Users\Dell\Desktop\dotnet\csharpBasics\obj\Debug\netcoreapp3.1\csharpBasics.genruntimeconfig.cache

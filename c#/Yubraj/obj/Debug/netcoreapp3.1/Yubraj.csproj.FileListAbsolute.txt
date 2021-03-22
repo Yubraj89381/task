@@ -1,0 +1,13 @@
+C:\Users\Dell\Desktop\c#\Yubraj\bin\Debug\netcoreapp3.1\Yubraj.exe
+C:\Users\Dell\Desktop\c#\Yubraj\bin\Debug\netcoreapp3.1\Yubraj.deps.json
+C:\Users\Dell\Desktop\c#\Yubraj\bin\Debug\netcoreapp3.1\Yubraj.runtimeconfig.json
+C:\Users\Dell\Desktop\c#\Yubraj\bin\Debug\netcoreapp3.1\Yubraj.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\c#\Yubraj\bin\Debug\netcoreapp3.1\Yubraj.dll
+C:\Users\Dell\Desktop\c#\Yubraj\bin\Debug\netcoreapp3.1\Yubraj.pdb
+C:\Users\Dell\Desktop\c#\Yubraj\obj\Debug\netcoreapp3.1\Yubraj.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\c#\Yubraj\obj\Debug\netcoreapp3.1\Yubraj.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\c#\Yubraj\obj\Debug\netcoreapp3.1\Yubraj.AssemblyInfo.cs
+C:\Users\Dell\Desktop\c#\Yubraj\obj\Debug\netcoreapp3.1\Yubraj.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\c#\Yubraj\obj\Debug\netcoreapp3.1\Yubraj.dll
+C:\Users\Dell\Desktop\c#\Yubraj\obj\Debug\netcoreapp3.1\Yubraj.pdb
+C:\Users\Dell\Desktop\c#\Yubraj\obj\Debug\netcoreapp3.1\Yubraj.genruntimeconfig.cache
